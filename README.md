@@ -6,7 +6,7 @@ A **React + TypeScript** app that simulates scanning the Bitcoin blockchain to h
 
 ## 🚀 Live Demo
 
-🔗 [Bitcoin-Hunter-AI](https://bitcoinhunter.vercel.app)
+🔗 [Bitcoin-Hunter-AI](https://bitcoinhunt-ai.vercel.app)
 
 ---
 
